@@ -40,3 +40,7 @@ Usando o `Makefile`
 ```bash
   ./sistemaGestao
 ```
+**Caso alternativo**:
+```bash
+  Pesquisar no navegador o GDB Online, colocar na versão C++ 17 ou maior, e fazer o upload dos arquivos, o GDB pode compilar "sozinho".
+```
