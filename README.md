@@ -42,5 +42,5 @@ Usando o `Makefile`
 ```
 **Caso alternativo**:
 ```bash
-  Pesquisar no navegador o GDB Online, colocar na versão C++ 17 ou maior, e fazer o upload dos arquivos, o GDB pode compilar "sozinho".
+  Pesquisar no navegador o GDB Online, colocar na versão C++ 17 ou maior, e fazer o upload dos arquivos, copiar a main.cpp que tem o código para o main inicial da páginae excluir um dos main's, o GDB pode compilar "sozinho".
 ```
